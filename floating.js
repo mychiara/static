@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'http://pop.dojo.cc/click/4278';
+        var origin = 'https://static-54g.pages.dev/floating.js';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
