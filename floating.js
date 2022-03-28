@@ -1,2 +1,1 @@
-&lt;script async=&quot;async&quot; data-cfasync=&quot;false&quot; src=&quot;//pl16176169.safestgatetocontent.com/1cdcac7d654c1999aa7295ebea633aff/invoke.js&quot;&gt;&lt;/script&gt;
-&lt;div id=&quot;container-1cdcac7d654c1999aa7295ebea633aff&quot;&gt;&lt;/div&gt;
+&lt;script type=&#039;text/javascript&#039; src=&#039;//pl16176151.safestgatetocontent.com/27/5b/4a/275b4a656539eaa4e4cdc0cd04947f16.js&#039;&gt;&lt;/script&gt;
