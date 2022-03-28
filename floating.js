@@ -1,4 +1,4 @@
-//<![CDATA[
+//
 <script type='text/javascript'>
         $(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#btm_banner&#39;).hide(90);});});
 </script>
@@ -11,4 +11,4 @@
 <!--Akhir script iklan-->
         </div>
  </div><!--end: floating ads-->
-//]]>
+
