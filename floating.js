@@ -1,5 +1,4 @@
-<!-- floating ads https://www.tudiahoseo.my.id/ -->
-<script type='text/javascript'>
+<!-- floating ads https://sumba.club -->
 $(document).ready(function() {
 $('img#closed').click(function(){
 $('#btm_banner').hide(90);
