@@ -15,4 +15,7 @@
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/887d1ebe7501f6544975e832f7527848/invoke.js"></scr' + 'ipt>');
 </script>
+<!--Akhir script iklan-->
+        </div>
+ </div>
 //END floating ads
